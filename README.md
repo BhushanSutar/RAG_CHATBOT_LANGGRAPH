@@ -77,7 +77,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with LangGraph that answers
 ### Prerequisites
 - Python 3.8+
 - pip package manager
-- Groq API Key ([Get it here](https://console.groq.com))
+- Groq API Key 
 
 ### Step 1: Clone the Repository
 ```bash
@@ -238,6 +238,7 @@ GitHub: https://github.com/BhushanSutar
 This project is created as an assignment submission for the AI Engineer Intern role.
 
 ---
+
 
 
 
