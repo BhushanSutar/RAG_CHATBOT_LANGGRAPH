@@ -230,6 +230,7 @@ agentic-ai-rag-chatbot/
 **Bhushan Sutar**  
 Email: bhushansutar1904@gmail.com  
 LinkedIn: https://linkedin.com/in/bhushansutar/ 
+
 GitHub: https://github.com/BhushanSutar/
 ---
 
@@ -238,4 +239,5 @@ GitHub: https://github.com/BhushanSutar/
 This project is created as an assignment submission for the AI Engineer Intern role.
 
 ---
+
 
