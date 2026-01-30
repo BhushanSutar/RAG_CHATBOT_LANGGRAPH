@@ -1,0 +1,4 @@
+rag/
+__pycache__/
+chroma_db/
+.env
